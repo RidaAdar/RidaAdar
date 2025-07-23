@@ -1,5 +1,4 @@
-# RidaAd
-
+# Rida Adardour
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/adardour-rida-695155225)
 
 [![Location](https://img.shields.io/badge/Lyon-France-green?logo=france)]
