@@ -12,7 +12,7 @@ Passionné par l’IA, l’ingénierie des données, et les systèmes distribué
 
 ---
 
-### 🛠 **Compétences techniques clés**
+###  **Compétences techniques clés**
 
 <p align="center">
   <!-- Python -->
