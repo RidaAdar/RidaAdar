@@ -5,10 +5,10 @@
 
 ---
 
-##  Data Engineer | Data Scientist | Cloud & Big Data Enthusiast
+##  Data Engineer | Data Scientist | Big Data Enthusiast
 
 Master 2 Data Science, Claude Bernard Lyon 1  
-Passionné par l’IA, l’ingénierie des données, et les systèmes distribués.
+Passionné par l’IA, l’ingénierie des données.
 
 ---
 
@@ -17,8 +17,7 @@ Passionné par l’IA, l’ingénierie des données, et les systèmes distribué
 <p align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <!-- Scala -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" alt="Scala"/>
+
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <!-- Spring Boot -->
@@ -31,8 +30,7 @@ Passionné par l’IA, l’ingénierie des données, et les systèmes distribué
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka"/>
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <!-- Kubernetes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+  
   <!-- AWS (SVG direct) -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="40" alt="AWS"/>
   <!-- Power BI -->
