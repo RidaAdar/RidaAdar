@@ -58,7 +58,7 @@ Passionné par l’IA, l’ingénierie des données.
 
 
 #### **Principaux domaines :**
-- **Data Engineering** : Airflow, Spark, Kafka, Scala, Python, Docker, Kubernetes, AWS, PostgreSQL, NoSQL (MongoDB, Cassandra)
+- **Data Engineering** : Airflow, Spark, Kafka, Scala, Python, Docker, AWS, PostgreSQL, NoSQL (MongoDB, Cassandra)
 - **Machine Learning & Deep Learning** : Python, scikit-learn, TensorFlow, PyTorch
 - **DataViz & BI** : Power BI, DAX, Power Query
 - **Cloud & Architecture** : AWS, BigQuery, Denodo
